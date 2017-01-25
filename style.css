@@ -1,26 +1,26 @@
 /*!
 *Estilo te la página satreiba sanatnev en https://sbector.github.io/openwindows-unauthorized/
 */
-html{
+html {
   font-size: 12px;
 }
 
-body{
+body {
   font-family: courier new,courier,monospace;
 }
 
-h1{
+h1,h3 {
   background-color: #ffffe0;
 }
 
-h2{
+h2 {
   background-color: #f0fff0;
 }
 
-h3{
+h3 {
   background-color: #ffffe0;
 }
 
-a{
+a {
   color:#00f;
 }

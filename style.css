@@ -1,5 +1,5 @@
 html {
-	font-size: 12px;
+  font-size: 12px;
 }
 
 body {
@@ -13,18 +13,18 @@ h1,h2,h3{
   line-height: 1em;
   font-size: 1rem;
   color: #ffe793;
-	padding: 0px;
+  padding: 0px;
   color: #222;
 }
 
 h1,h3 {
   background-color: #ffffe0;
-	margin: 50px;
+  margin: 50px;
 }
 
 h1 {
-	text-align: center;
-	margin: 100px;
+  text-align: center;
+  margin: 100px;
 }
 
 h2 {
@@ -38,5 +38,5 @@ h3 {
 a {
   color:#00f;
   text-decoration: none;
-	margin: 50px;
+  margin: 50px;
 }

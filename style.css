@@ -26,6 +26,7 @@ h1 {
 
 h2 {
   background-color: #f0fff0;
+  text-decoration: underline;
 }
 
 a {
@@ -36,12 +37,4 @@ a {
 
 ul {
   list-style-type: none;
-}
-
-ul.underline {
-  text-decoration: underline;
-}
-
-ul.links {
-  text-decoration: none;
 }

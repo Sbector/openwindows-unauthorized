@@ -13,7 +13,6 @@ h1,h2,h3{
   line-height: 1em;
   font-size: 1rem;
   color: #ffe793;
-  padding: 0px;
   color: #333;
 }
 
@@ -23,20 +22,22 @@ h1,h3 {
 
 h1 {
   text-align: center;
-  margin: 0px;
 }
 
 h2 {
   background-color: #f0fff0;
 }
 
-h3 {
-  border-bottom: 1px solid #000;
-  margin: 0px;
-}
-
 a {
   color:#00f;
   text-decoration: none;
   margin: 50px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul.underline {
+  text-decoration: underline;
 }

@@ -41,3 +41,7 @@ ul {
 ul.underline {
   text-decoration: underline;
 }
+
+ul.links {
+  text-decoration: none;
+}

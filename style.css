@@ -15,7 +15,6 @@ h1,h2,h3{
 }
 
 h1 {
-  position: fixed;
   text-align: center;
   letter-spacing: 1.1em;
   text-shadow: 0.5em 0.5em #ddd;
@@ -73,9 +72,7 @@ ul, li {
     width: 100%;
   }
   h1 {
-    margin: 25px;
-    position: absolute;
-    z-index: -1;
+    margin: 50px;
   }
   a {
     width: 100%

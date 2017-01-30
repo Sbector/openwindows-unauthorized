@@ -22,7 +22,7 @@ h1 {
 
 h2 {
   background-color: #f0fff0;
-  letter-spacing: 0.5em;
+  letter-spacing: 0.3em;
 }
 
 h3 {
@@ -32,6 +32,7 @@ h3 {
 
 a {
   text-decoration: none;
+  max-width: 10.2em
 }
 
 a:link {
@@ -64,7 +65,7 @@ ul, li {
   box-sizing: border-box;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 480px) {
   .container > div {
     display: block;
     width: 100%;

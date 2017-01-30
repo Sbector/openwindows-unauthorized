@@ -64,7 +64,7 @@ ul, li {
   box-sizing: border-box;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 750px) {
   .container > div {
     display: block;
     width: 100%;

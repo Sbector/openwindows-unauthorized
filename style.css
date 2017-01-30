@@ -21,7 +21,7 @@ h1,h3 {
 h1 {
   text-align: center;
   letter-spacing: 1.1em;
-  text-shadow: 0.5em 0.5em #888;
+  text-shadow: 0.5em 0.5em #ddd;
 }
 
 h2 {
@@ -35,9 +35,20 @@ h3 {
 }
 
 a {
-  color:#00f;
   text-decoration: none;
   margin: 4em;
+}
+
+a:link {
+  color:#0ae;
+}
+
+a:visited {
+  color: #0ce;
+  }
+
+a:hover {
+  color: #eee;
 }
 
 ul {

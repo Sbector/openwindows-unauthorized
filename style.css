@@ -56,6 +56,9 @@ ul, li {
 
 .container {
   font-size: 0;
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
 }
 
 .container > div {

@@ -43,11 +43,12 @@ a:visited {
   color: #0ce;
   }
 
-a:hover {
+a:hover, a:active {
   color: #eee;
   text-shadow: 0.2em 0.2em #aaa;
 }
 
-ul {
+ul, li {
   list-style-type: none;
+  padding: 0em;
 }

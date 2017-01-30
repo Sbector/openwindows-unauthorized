@@ -4,14 +4,12 @@ html {
 
 body {
   font-family: courier new,courier,monospace;
-  font-size: 1rem;
-  line-height: 1.5rem;
+  font-size: 100%;
   word-wrap: break-word;
 }
 
 h1,h2,h3{
-  line-height: 1em;
-  font-size: 1rem;
+  font-size: 1em;
   color: #ffe793;
   color: #333;
 }
@@ -22,20 +20,24 @@ h1,h3 {
 
 h1 {
   text-align: center;
+  letter-spacing: 1.1em;
+  text-shadow: 0.1em 0.1em #333;
 }
 
 h2 {
   background-color: #f0fff0;
+  letter-spacing: 1.1em;
 }
 
 h3 {
   text-decoration: underline;
+  letter-spacing: 0.1em;
 }
 
 a {
   color:#00f;
   text-decoration: none;
-  margin: 50px;
+  margin: 4em;
 }
 
 ul {

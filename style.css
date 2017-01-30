@@ -49,6 +49,7 @@ a:visited {
 
 a:hover {
   color: #eee;
+  text-shadow: 0.2em 0.2em #aaa;
 }
 
 ul {

@@ -18,7 +18,7 @@ h1 {
   text-align: center;
   letter-spacing: 1.1em;
   text-shadow: 0.5em 0.5em #ddd;
-  margin: 10em;
+  margin: 100px;
 }
 
 h2 {
@@ -33,7 +33,7 @@ h3 {
 
 a {
   text-decoration: none;
-  max-width: 10.2em
+  max-width: 150px;
 }
 
 a:link {
@@ -70,5 +70,11 @@ ul, li {
   .container > div {
     display: block;
     width: 100%;
+  }
+  h1 {
+    margin: 50px;
+  }
+  a {
+    width: 100%
   }
 }

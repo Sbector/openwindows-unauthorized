@@ -57,7 +57,7 @@ ul, li {
 .container {
   font-size: 0;
   position: absolute;
-  left: 50%;
+  left: 25%;
   margin-left: -100px;
 }
 

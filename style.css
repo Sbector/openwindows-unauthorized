@@ -27,10 +27,12 @@ h1 {
 
 h2 {
   padding-bottom: 10%;
+  letter-spacing: 0.8em;
 }
 
 h3 {
   text-decoration: underline;
+  letter-spacing: 0.5em;
 }
 
 a {

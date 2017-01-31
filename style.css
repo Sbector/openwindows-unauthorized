@@ -66,14 +66,21 @@ ul, li {
   box-sizing: border-box;
 }
 
+.container > div.col{
+  max-width: 300px;
+  margin: 0 auto;
+}
+
 @media (max-width: 480px) {
   .container > div {
     display: block;
     width: 100%;
   }
+
   h1 {
     margin: 50px;
   }
+
   a {
     width: 100%
   }

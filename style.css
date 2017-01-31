@@ -66,6 +66,12 @@ ul, li {
   box-sizing: border-box;
 }
 
+.incontainer {
+  width: 25%;
+  margin: auto;
+}
+
+
 @media (max-width: 480px) {
   .container > div {
     display: block;

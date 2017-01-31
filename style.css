@@ -64,11 +64,7 @@ ul, li {
   vertical-align: top;
   width: 33%;
   box-sizing: border-box;
-}
-
-.incontainer {
-  width: 25%;
-  margin: auto;
+  border: 2px solid #f0f;
 }
 
 

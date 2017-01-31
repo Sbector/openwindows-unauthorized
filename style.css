@@ -18,7 +18,7 @@ h1 {
   text-align: center;
   letter-spacing: 1.1em;
   text-shadow: 0.5em 0.5em #eaeaea;
-  margin: 100px;
+  margin: 70px;
 }
 
 h2 {
@@ -65,7 +65,7 @@ ul, li {
   width: 33.33%;
   box-sizing: border-box;
   border: 2px solid #f0f;
-  padding: 1% 10%;
+  padding: 5% 10%;
 }
 
 
@@ -76,7 +76,7 @@ ul, li {
   }
 
   h1 {
-    margin: 50px;
+    margin: 25px;
   }
 
   a {

@@ -73,6 +73,7 @@ ul, li {
   .container > div {
     display: block;
     width: 100%;
+    padding: 5%
   }
 
   h1 {

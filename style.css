@@ -79,6 +79,7 @@ footer {
   vertical-align: bottom;
   padding: 5%;
   text-align: center;
+  font-size: 10px;
 }
 
 @@media (max-width: 1000px) {

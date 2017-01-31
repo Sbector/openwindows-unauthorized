@@ -56,7 +56,6 @@ ul, li {
 
 .container {
   font-size: 0;
-  margin: 0 auto;
 }
 
 .container > div {
@@ -65,6 +64,7 @@ ul, li {
   vertical-align: top;
   width: 25%;
   box-sizing: border-box;
+  margin: 0 auto;
 }
 
 @media (max-width: 480px) {

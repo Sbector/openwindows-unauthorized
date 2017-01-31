@@ -34,7 +34,6 @@ h3 {
 a {
   text-decoration: none;
   max-width: 150px;
-  padding-bottom: 10px;
   border: 1px solid #FF0;
 }
 
@@ -54,6 +53,10 @@ a:hover, a:active {
 ul, li {
   list-style-type: none;
   padding: 0;
+}
+
+li {
+  padding-bottom: 10px;
 }
 
 .container {

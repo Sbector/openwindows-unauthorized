@@ -34,7 +34,8 @@ h3 {
 a {
   text-decoration: none;
   max-width: 150px;
-  padding-bottom: 1%
+  padding-bottom: 2%;
+  border: 1px solid #FF0;
 }
 
 a:link {

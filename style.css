@@ -17,7 +17,7 @@ h1,h2,h3{
 h1 {
   text-align: center;
   letter-spacing: 1.1em;
-  text-shadow: 0.5em 0.5em #ddd;
+  text-shadow: 0.5em 0.5em #eaeaea;
   margin: 100px;
 }
 
@@ -64,10 +64,6 @@ ul, li {
   vertical-align: top;
   width: 33.33%;
   box-sizing: border-box;
-}
-
-.container > div.col{
-  max-width: 300px;
   margin: 0 auto;
 }
 

@@ -92,6 +92,10 @@ li {
     margin: 25px;
   }
 
+  h2 {
+    text-align: right;
+  }
+
   a {
     width: 100%
   }

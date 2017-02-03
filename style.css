@@ -39,7 +39,6 @@ h3 {
 a {
   text-decoration: none;
   max-width: 150px;
-  text-align: left;
 }
 
 a:link {
@@ -66,6 +65,7 @@ ul {
 
 li {
   padding-bottom: 10%;
+  text-align: left;
 }
 
 .container {

@@ -12,6 +12,10 @@ span {
   background-color: #f0fff0;
 }
 
+span.amarillo{
+  background-color: #ffffe0;
+}
+
 h1,h2,h3{
   font-size: 1em;
   text-transform: uppercase;

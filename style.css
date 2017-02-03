@@ -39,6 +39,7 @@ h3 {
 a {
   text-decoration: none;
   max-width: 150px;
+  text-align: left;
 }
 
 a:link {
@@ -57,6 +58,10 @@ a:hover, a:active {
 ul, li {
   list-style-type: none;
   padding: 0;
+}
+
+ul {
+  text-align: center;
 }
 
 li {

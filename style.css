@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'lektonbold';
-    src: url('lekton-bold-webfont.woff2') format('woff2'),
-         url('lekton-bold-webfont.woff') format('woff');
+    src: url('fonts/lekton-bold-webfont.woff2') format('woff2'),
+         url('fonts/lekton-bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'lektonitalic';
-    src: url('lekton-italic-webfont.woff2') format('woff2'),
-         url('lekton-italic-webfont.woff') format('woff');
+    src: url('fonts/lekton-italic-webfont.woff2') format('woff2'),
+         url('fonts/lekton-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: italic,oblique;
 
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'lektonregular';
-    src: url('lekton-regular-webfont.woff2') format('woff2'),
-         url('lekton-regular-webfont.woff') format('woff');
+    src: url('fonts/lekton-regular-webfont.woff2') format('woff2'),
+         url('fonts/lekton-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

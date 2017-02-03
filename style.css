@@ -1,5 +1,5 @@
 html {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 body {
@@ -17,7 +17,7 @@ span.amarillo{
 }
 
 h1,h2,h3{
-  font-size: 1rem;
+  font-size: 0.95rem;
   text-transform: uppercase;
   color: #ffe793;
   color: #333;

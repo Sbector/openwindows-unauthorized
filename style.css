@@ -1,5 +1,5 @@
 html {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 body {
@@ -25,7 +25,7 @@ h1,h2,h3{
 
 h1 {
   text-align: center;
-  letter-spacing: 0.8em;
+  letter-spacing: 0.4em;
   margin: 70px;
 }
 
@@ -40,6 +40,7 @@ h3 {
 }
 
 a {
+  font-size: 1rem;
   text-decoration: none;
   max-width: 150px;
 }

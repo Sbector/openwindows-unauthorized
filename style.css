@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'texgyrecursor';
+    font-family: 'texgyrecursorbold';
     src: url('fonts/texgyrecursor-bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: 'texgyrecursor';
+    font-family: 'texgyrecursoritalic';
     src: url('fonts/texgyrecursor-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: italic,oblique;
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-    font-family: 'texgyrecursor';
+    font-family: 'texgyrecursorbolditalic';
     src: url('fonts/texgyrecursor-bolditalic-webfont.woff') format('woff');
     font-weight: bold;
     font-style: italic,oblique;
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-    font-family: 'texgyrecursor';
+    font-family: 'texgyrecursorregular';
     src: url('fonts/texgyrecursor-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
@@ -35,7 +35,7 @@ html {
 }
 
 body {
-  font-family: 'texgyrecursor';
+  font-family: 'texgyrecursorregular';
   font-size: 100%;
   word-wrap: break-word;
 }
@@ -44,7 +44,7 @@ span {
   background-color: #f0fff0;
 }
 
-span.amarillo{
+span.amarillo {
   background-color: #ffffe0;
 }
 

@@ -59,13 +59,8 @@ ul, li {
   padding: 0;
 }
 
-ul {
-  text-align: center;
-}
-
 li {
   padding-bottom: 10%;
-  text-align: left;
 }
 
 .container {

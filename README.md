@@ -5,4 +5,4 @@ homepage ventanas abiertas no autorizado
 ![original](/img/screenshots/2017-01-24 00_11_40-ventanas abiertas.png)
 
 --Copia--
-![copia](/img/screenshots/2017-02-03 19_18_03-satreiba sanatnev.png)
+![copia](/img/screenshots/2017-02-03 19_38_41-satreiba sanatnev-invertida.png)

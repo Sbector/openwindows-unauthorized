@@ -38,8 +38,7 @@ body {
   font-family: 'texgyrecursorregular';
   font-size: 100%;
   word-wrap: break-word;
-  display: inline-block;
-  transform: scaleX(-1); 
+  transform: scaleX(-1);
   filter: FlipH; /* IE 6-7-8 */
 }
 
